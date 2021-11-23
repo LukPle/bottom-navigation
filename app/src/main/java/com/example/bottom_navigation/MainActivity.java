@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
      * Method for handling the clicks on menu items.
      * A switch case checks which item was selected and calls the suited Fragment.
      * The selected Fragment should be displayed afterwards.
-     *
      * @param item is the MenuItem that the user clicked on.
      * @return true closes the method successfully.
      */
